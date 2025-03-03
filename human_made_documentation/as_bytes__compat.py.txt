@@ -13,3 +13,5 @@
     TypeError: If `bytes_or_text` is not a binary or unicode string.
 
 human-made arabic translation:
+
+https://docs.google.com/document/d/1L2PRwdbNsgZ_Q-eN1ourSta94YWMU_3TJQhLNNc0fR4/edit?usp=sharing

@@ -2,3 +2,5 @@ Batched INSERT statements via the ORM, PKs already defined
 
 
 human-made arabic docuemntation:
+
+https://docs.google.com/document/d/1YqLhwKvvw02Lpz55bWY6qJJGJ3Jy_Bx4SAC_4nBA3eI/edit?usp=sharing

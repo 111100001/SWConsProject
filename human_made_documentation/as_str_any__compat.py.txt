@@ -11,3 +11,5 @@ Converts input to `str` type.
     A `str` object.
 
     human-made arabic docuemntation:
+
+    https://docs.google.com/document/d/1dvKrgrz5D9nBfqdD1y5-_Bvd7jh4YB8GPEhxuAegV5s/edit?usp=sharing
