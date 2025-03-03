@@ -1,1 +1,1 @@
-as_text
+as_text from compat.py 
