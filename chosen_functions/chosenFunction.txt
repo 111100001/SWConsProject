@@ -1,0 +1,9 @@
+as_text from compat.py 
+
+test_flush_no_pk from bulk_inserts.py
+
+as_bytes from compat.py 
+
+test_flush_pk_given from bulk_inserts.py
+
+as_str_any from compat.py 

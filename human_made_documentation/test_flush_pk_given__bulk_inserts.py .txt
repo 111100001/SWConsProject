@@ -1,0 +1,4 @@
+Batched INSERT statements via the ORM, PKs already defined
+
+
+human-made arabic docuemntation:

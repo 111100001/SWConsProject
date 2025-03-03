@@ -1,0 +1,13 @@
+Converts input to `str` type.
+
+     Uses `str(value)`, except for `bytes` typed inputs, which are converted
+     using `as_str`.
+
+  Args:
+    value: A object that can be converted to `str`.
+    encoding: Encoding for `bytes` typed inputs.
+
+  Returns:
+    A `str` object.
+
+    human-made arabic docuemntation:
