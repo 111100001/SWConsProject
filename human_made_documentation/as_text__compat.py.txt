@@ -16,3 +16,6 @@ def as_text(bytes_or_text, encoding='utf-8'):
   """
   
 
+human-made arabic translation:
+
+https://docs.google.com/document/d/16594d7v4e1NQaGeAm8RGJuPWpHmruwBKpHpzRQh2lgY/edit?tab=t.0

@@ -1,0 +1,6 @@
+"""INSERT statements via the ORM (batched with RETURNING if available),
+    fetching generated row id"""
+
+human-made arabic docuemntation:
+
+https://docs.google.com/document/d/1LwVm2bguveeRyIcet2flhsxRn627Y9AhjXb0Kpfpnow/edit?usp=sharing
