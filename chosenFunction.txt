@@ -1,1 +1,3 @@
 as_text from compat.py 
+
+test_flush_no_pk from bulk_inserts.py

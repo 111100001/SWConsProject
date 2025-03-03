@@ -466,7 +466,14 @@ def _kmeans_single_elkan(
     tol=1e-4,
     n_threads=1,
 ):
-    """A single run of k-means elkan, assumes preparation completed prior.
+    """
+    Description 1:The function of _kmeans_single_elkan is to perform a single run of the k-means clustering algorithm using 
+    the Elkan variant, which is optimized for speed and efficiency 
+
+    
+    Description 2:A single run of k-means elkan, assumes preparation completed prior.
+
+
 
     Parameters
     ----------

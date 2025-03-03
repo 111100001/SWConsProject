@@ -40,8 +40,6 @@ def setup_database(dburl, echo, num):
 
 @Profiler.profile
 def test_flush_no_pk(n):
-    """INSERT statements via the ORM (batched with RETURNING if available),
-    fetching generated row id"""
     session = Session(bind=engine)
     for chunk in range(0, n, 1000):
         session.add_all(
