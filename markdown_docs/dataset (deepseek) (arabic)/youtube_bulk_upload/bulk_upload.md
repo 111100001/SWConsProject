@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 ## ClassDef VideoPrivacyStatus
 **VideoPrivacyStatus**: وظيفة VideoPrivacyStatus هي تحديد حالة الخصوصية لمقاطع الفيديو التي يتم تحميلها على YouTube.  
 **attributes**: السمات الخاصة بهذا الكلاس.  
@@ -483,3 +485,4 @@ None
 ]
 ```
 ***
+</div>

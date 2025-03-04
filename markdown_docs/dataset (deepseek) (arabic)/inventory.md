@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 ## FunctionDef update_prediction_data
 **update_prediction_data**: وظيفة `update_prediction_data` هي جلب بيانات التوقعات وكتابتها في قاعدة بيانات Cassandra.
 
@@ -253,3 +255,4 @@ Doc is waiting to be generated...
 }
 ```
 هذا يعني أن الصفحات المتاحة في يومي '2023-10-02' و '2023-10-03' كانت أقل من الطلب اليومي المحدد.
+</div>

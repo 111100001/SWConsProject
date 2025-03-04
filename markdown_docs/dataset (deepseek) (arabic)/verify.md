@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 ## ClassDef ReturnCode
 **ReturnCode**: وظيفة ReturnCode هي تمثيل مجموعة من الأكواد التي تُستخدم للإشارة إلى حالات مختلفة من النجاح أو الفشل في عمليات التحقق والتنزيل والتحقق من التوقيعات في المشروع.
 
@@ -736,3 +738,4 @@ ReturnCode.SUCCESS
 ```python
 ReturnCode.BAD_VERSION
 ```
+</div>

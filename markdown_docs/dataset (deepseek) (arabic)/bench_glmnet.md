@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 ## FunctionDef rmse(a, b)
 **rmse**: وظيفة `rmse` هي حساب جذر متوسط مربعات الخطأ (Root Mean Squared Error) بين قيمتين.  
 **parameters**: معاملات هذه الوظيفة.  
@@ -56,3 +58,4 @@ rmse: 0.456
 mean coef abs diff: 0.789  
 ```  
 وستكون القيمة المُرجعَة هي `0.123`.
+</div>

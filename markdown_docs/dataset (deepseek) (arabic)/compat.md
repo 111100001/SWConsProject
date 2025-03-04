@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 ## FunctionDef as_bytes(bytes_or_text, encoding)
 **as_bytes**: وظيفة `as_bytes` هي تحويل أنواع الإدخال في بايثون مثل `bytearray`، `bytes`، أو النصوص Unicode إلى نوع `bytes`.
 
@@ -176,3 +178,4 @@ path_to_bytes("/path/to/file")
 b'/path/to/file'
 ```
 وهذا يمثل المسار "/path/to/file" بشكل ثنائي (`bytes`).
+</div>
